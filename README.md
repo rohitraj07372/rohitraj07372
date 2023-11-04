@@ -16,8 +16,8 @@ I'm on a quest to create amazing web experiences and bring ideas to life through
 I'm always eager to collaborate and learn from the open-source community. Let's grow together and build some exciting projects. Feel free to reach out, and let's create something awesome!
 
 📫 How to Reach Me:
-[LinkedIn](https://www.linkedin.com/in/rohit-kumar-61101024b/)
-[Email](rohit.kumar053803@gmail.com)
+[💼LinkedIn](https://www.linkedin.com/in/rohit-kumar-61101024b/)
+[📧Email](rohit.kumar053803@gmail.com)
 
 Looking forward to connecting and coding with you! 🤝
 
