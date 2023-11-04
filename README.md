@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm Rohit
+### Hi there 👋 I'm Rohit
 
 I'm a passionate frontend enthusiast and an aspiring Full Stack Developer. Currently, I'm on a journey to master the MERN (MongoDB, Express, React, Node.js) stack and expand my skills in web development. 
 
